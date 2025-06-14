@@ -1,5 +1,6 @@
 public class binarySearch {
     public static int findNum(int arr[], int key){
+
         int start = 0;
         int end = arr.length-1;
         while(start<=end){
@@ -17,7 +18,6 @@ public class binarySearch {
         return -1;
     }
 
-   
 
 
     public static void main(String[] args) {
