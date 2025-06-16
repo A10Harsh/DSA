@@ -19,6 +19,6 @@ public class largestNum {
     public static void main(String[] args) {
          int [] number = {1,2,3,7,5,6};
          int largest = findLargest(number);
-         System.out.println("largest number in array " + largest);
+         System.out.println("largest number in array"+largest);
     }
 }
