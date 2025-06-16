@@ -10,7 +10,7 @@ public class linearSearch {
         return -1;
     }
     public static void main(String[] args) {
-        int [] number = {1,2,3,4,5,6};
+        int [] number = {1,2,3,4,5,6,7,8,9,10};
         int num = 2;
         int res = Search(number, num);
         if (res == -1){
